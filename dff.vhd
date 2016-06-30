@@ -5,7 +5,7 @@ ENTITY dff IS
 	PORT
 	(
 		d, clk, clrn 	:  	IN STD_LOGIC;
-		q 				:  	OUT STD_LOGIC
+		q 		:  	OUT STD_LOGIC
 	);
 
 END dff;
